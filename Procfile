@@ -1,1 +1,1 @@
-web: bin/hubot -a line -n “”
+web: bin/hubot -a line
